@@ -47,7 +47,7 @@
 - **telegram作者**：https://t.me/ym94203
 - **Cloudflare Docs支持**: https://developers.cloudflare.com/
 
-    致敬原版作者：  Alexandre_Kojeve
+ 🙏致敬原版作者：  Alexandre_Kojeve
 
  ⚠️ 后台作者：    ym94203
  
@@ -136,4 +136,8 @@ const DEFAULT_SUB_DOMAIN = "sub.cmliussss.net";  // 真实订阅源（用于聚�
 
 
 
-
+# ⚖️ 免责声明
+# 本项目仅供技术交流与学习使用，请勿用于非法用途。使用本程序产生的任何后果由使用者自行承担。
+# 🙏 致谢
+# 基于 Cloudflare Workers 平台
+# 感谢开源社区提供的优选 IP 思路
